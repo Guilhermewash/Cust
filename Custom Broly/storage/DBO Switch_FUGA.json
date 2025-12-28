@@ -1,0 +1,38 @@
+{
+  "fugaSpells": [
+    {
+      "cooldownTotal": 30,
+      "enableTimeSpell": false,
+      "cooldownActive": 5,
+      "selfMana": 0,
+      "orangeSpell": "imortalidade",
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "spellCast": "imortalidade",
+      "index": 1,
+      "onScreen": "imortalidade",
+      "selfHealth": 30,
+      "enabled": false
+    },
+    {
+      "cooldownTotal": 30,
+      "enableTimeSpell": true,
+      "cooldownActive": 5,
+      "activeCooldown": 1766870089,
+      "selfMana": 20,
+      "orangeSpell": "imortalidade",
+      "totalCooldown": 1766870114,
+      "widgetPos": {
+        "x": 1120,
+        "y": 212
+      },
+      "spellCast": "imortalidade",
+      "index": 2,
+      "onScreen": "imortalidade 2",
+      "selfHealth": 40,
+      "enabled": true
+    }
+  ]
+}

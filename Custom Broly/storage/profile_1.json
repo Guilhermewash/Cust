@@ -1,0 +1,432 @@
+{
+  "fugabateu": true,
+  "iconScripts": {
+    "showInfos": true,
+    "comboMacro": true,
+    "fugaMacro": true
+  },
+  "widgetPos": {
+    "pkTimeWidget": {
+      "y": 194,
+      "x": 1461
+    },
+    "widget": {
+      "y": 121,
+      "x": 375
+    },
+    "showText": {
+      "y": 158,
+      "x": 1094
+    },
+    "antiRedTime": [
+
+    ]
+  },
+  "Fugas": [
+
+  ],
+  "autoBuff": {
+    "atk": false,
+    "pz": false,
+    "exhausted": 1000,
+    "icon": false,
+    "enabled": true,
+    "spellList": [
+      "migate no gokui, 30"
+    ],
+    "iconPosY": 170,
+    "iconPosX": 0
+  },
+  "shenlongTime": 1766608498,
+  "RevideFight": {
+    "pausedTarget": false,
+    "pausedCave": false,
+    "ignoreGuild": false,
+    "esc": "Escape",
+    "attackAll": false,
+    "ignoreParty": false,
+    "battleativ": false,
+    "pauseTarget": true,
+    "battleativD": false,
+    "pauseCave": true,
+    "pausedCombox1": false,
+    "pausedComboUp": false,
+    "pauseComboUp": false,
+    "followTarget": true,
+    "ativecombo": false,
+    "ativepowerdown": false,
+    "enabled": true
+  },
+  "timeExp": {
+    "cooldown": 0
+  },
+  "alarms": {
+    "playerDetected": {
+      "enabled": false
+    },
+    "defaultMsg": [
+
+    ],
+    "playerAttack": {
+      "enabled": true
+    },
+    "enabled": false,
+    "ignoreFriends": {
+      "enabled": true
+    },
+    "creatureDetected": {
+      "enabled": false
+    },
+    "damageTaken": {
+      "enabled": false
+    },
+    "lowHealth": {
+      "value": 20
+    },
+    "privateMsg": [
+
+    ],
+    "flashClient": {
+      "enabled": true
+    },
+    "customMessage": {
+      "value": ""
+    },
+    "creatureName": {
+      "value": ""
+    },
+    "lowMana": {
+      "value": 20
+    }
+  },
+  "trainSkillPos": {
+    "widget": {
+      "y": 139,
+      "x": 378
+    }
+  },
+  "playerList": {
+    "highlight": false,
+    "enemyList": [
+
+    ],
+    "blackList": [
+
+    ],
+    "marks": false,
+    "friendList": [
+      "Barao Drex",
+      "Xuxa Empurra Fofo",
+      "Miyata",
+      "Hezbollah",
+      "Soge Barba De Xota",
+      "Sem Choro",
+      "Barao Kan",
+      "Mah Vontade",
+      "Soge",
+      "Lean",
+      "Mr Beast",
+      "Alien Butt-breaker",
+      "Goma Three",
+      "Fiapo De Manga",
+      "Chrollo",
+      "Daxwind",
+      "Goma One",
+      "Death Killer",
+      "Maximus",
+      "Gemeo Do Bem",
+      "Mathzin",
+      "Dieguin",
+      "Black Wave",
+      "Soge boss",
+      "Saruman",
+      "No Seu Kuri",
+      "Bituca",
+      "Sexy Prime",
+      "Mutombo",
+      "Scott Summers",
+      "Xereca Gorda",
+      "Bello Ownz",
+      "Soge Deleted",
+      "Ahan Caxota",
+      "Yjdlsi Lkasijd",
+      "Goma Two",
+      "Forces Puff Daddy",
+      "Soge Boss",
+      "Zenitsu",
+      "Hard Hempus",
+      "Diamond",
+      "Shazan",
+      "No Seu Caps",
+      "Xuxa Dos Baixinhos",
+      "Dieguiin",
+      "Farmandovcxfour",
+      "Soge Mamaco"
+    ],
+    "outfits": false,
+    "groupMembers": true
+  },
+  "FriendText": "",
+  "extras": {
+    "gotoMaxDistance": 30,
+    "targetIcon": true,
+    "showTargetPriority": false,
+    "lootLast": true,
+    "huntRoutes": 50,
+    "limpartexto": true,
+    "pathfinding": true,
+    "looting": 40,
+    "ignoreCreatures": "deer,rabbit",
+    "joinBot": false,
+    "killUnder": 1,
+    "bless": true,
+    "esconderspr": true,
+    "reachable": false,
+    "height": 550,
+    "talkDelay": 1000,
+    "converte": true,
+    "Idlemode": false,
+    "title": true,
+    "ExpPotion": false,
+    "trainsKILL": false,
+    "caveIcon": true,
+    "escadd": false,
+    "abrirbp": true,
+    "lootDelay": 200
+  },
+  "Attacking": [
+
+  ],
+  "attackLeader": "Hezbollah",
+  "highestDamage": 0,
+  "potion": "3040,99,99,3000",
+  "expConfig": "13813, bonus de EXP, 2",
+  "ingame_hotkeys": "",
+  "FollowPlayerName": "Hezbollah",
+  "DPS": 0,
+  "IgnorarDano": "0",
+  "fugasPos": {
+    "imortalidade": {
+      "y": 104,
+      "x": 621
+    },
+    "battling": {
+      "y": 118,
+      "x": 495
+    }
+  },
+  "autoParty": {
+    "onMsg": false,
+    "leaderName": "Constantine",
+    "autoPartyList": [
+      "Soge",
+      "Barao Kan",
+      "Mah Vontade",
+      "Miyata",
+      "Mathzin",
+      "Soge Barba De Xota",
+      "Alien Butt-breaker",
+      "Mr Beast",
+      "Hezbollah",
+      "Lean",
+      "Daxwind",
+      "Fiapo De Manga",
+      "Sem Choro",
+      "Dieguin",
+      "Barao Drex",
+      "Chrollo",
+      "Mutombo"
+    ],
+    "enabled": false,
+    "inviteTxt": "party me",
+    "autoShare": false
+  },
+  "bless": true,
+  "caveBotTasker": {
+    "monster": "",
+    "inProgress": false,
+    "max": 0,
+    "count": 0,
+    "taskName": ""
+  },
+  "_icons": {
+    "Chase": {
+      "enabled": false,
+      "x": 0.12270916334661,
+      "y": 0.42813765182186
+    },
+    "Combo Delay": {
+      "enabled": false,
+      "x": 0.042314335060449,
+      "y": 0.20226843100189
+    },
+    "Combo & Especiais": {
+      "enabled": false,
+      "x": 0.19446704637917,
+      "y": 0.23571428571429
+    },
+    "Bug Map": {
+      "enabled": false,
+      "x": 0.095219123505976,
+      "y": 0.51214574898785
+    },
+    "Attack Target": {
+      "enabled": true,
+      "x": 0.096812749003984,
+      "y": 0.19433198380567
+    },
+    "Senzu Heal": {
+      "enabled": true,
+      "x": 0.09800796812749,
+      "y": 0.35222672064777
+    },
+    "Combo": {
+      "enabled": true,
+      "x": 0.12629482071713,
+      "y": 0.19534412955466
+    },
+    "cI": {
+      "y": 0.046575342465753,
+      "x": 0
+    },
+    "Attackenemy": {
+      "enabled": false,
+      "x": 0.09601593625498,
+      "y": 0.25506072874494
+    },
+    "Combo Canudo": {
+      "enabled": false,
+      "x": 0.028639618138425,
+      "y": 0.13178294573643
+    },
+    "BuffIcon": {
+      "enabled": true,
+      "x": 0.01,
+      "y": 0.85
+    },
+    "Heal": {
+      "enabled": true,
+      "x": 0.12430278884462,
+      "y": 0.35425101214575
+    },
+    "COMBO UP": {
+      "enabled": false,
+      "x": 0.01,
+      "y": 0.45
+    },
+    "Follow Attack": {
+      "enabled": false,
+      "x": 0.095617529880478,
+      "y": 0.4331983805668
+    },
+    "Combo Heal": {
+      "enabled": false,
+      "x": 0.01,
+      "y": 0.65
+    },
+    "enemy": {
+      "enabled": false,
+      "x": 0.12868525896414,
+      "y": 0.25303643724696
+    }
+  },
+  "antiRedTime": 54398479,
+  "battleTracking": [
+    0,
+    268436010,
+    [
+
+    ]
+  ],
+  "_enemy": [
+
+  ],
+  "escadaid": "Space",
+  "exiva/senseAdvanced": {
+    "LastSensedPlayer": "Pirocudo Farm",
+    "LastSenseKey": "v",
+    "LastTargetKey": "t",
+    "Spell": "sense"
+  },
+  "areaSpell": "Super Explosion Wave",
+  "comboSpells": "Deadly Bomb, Mega Bomb",
+  "staminaItemsUser": {
+    "enabled": true,
+    "items": [
+      3233,
+      0,
+      0,
+      0,
+      0
+    ],
+    "min": 0,
+    "max": 40
+  },
+  "timeSkill": {
+    "cooldown": 0
+  },
+  "_macros": {
+    "": true,
+    "Virar para o alvo": false,
+    "Reiatsu Down": false,
+    "Combo Delay": false,
+    "Attack Target": true,
+    "Combo S/Canudo": false,
+    "Combo": false,
+    "Mystic Defense Full": false,
+    "Combo Heal": false,
+    "Mystic/Heal": false,
+    "Mystic Defense": false,
+    "Heal": true,
+    "Imune": true,
+    "Fast": false,
+    "Sense": false,
+    "Speed": true,
+    "Powerdown/Pcave": false,
+    "Desviar Attack Boss": false,
+    "Attack Enemy-List": false,
+    "Reset": true,
+    "Tempo Decorrido": false,
+    "Fala dano causado": false,
+    "Combo Canudo": false,
+    "Pick-Up Above": false,
+    "Pick-Up": false,
+    "Attack target": true,
+    "BugMap": false,
+    "Pick-Up Target SQM": true,
+    "AntReD": false,
+    "Anti-Red": true,
+    "Combo UP": false,
+    "Sense target": false,
+    "Chase": false,
+    "AntiRS & Msg": false,
+    "Follow Player": false,
+    "Detector Shenlong": false,
+    "Area": false,
+    "Potion": true,
+    "Mystic Kai & Def": true,
+    "Powerdown": false,
+    "Combo + Especiais": false,
+    "Enemy": false,
+    "Follow Attack": false,
+    "Auto Accept Party": true,
+    "Attack leader's target": false
+  },
+  "_configs": {
+    "targetbot_configs": {
+      "enabled": true,
+      "selected": "@"
+    },
+    "cavebot_configs": {
+      "enabled": true,
+      "selected": "brianne"
+    }
+  },
+  "skillConfig": "14804, com skill rate, 2",
+  "moneyItems": [
+    {
+      "count": 10000,
+      "id": 3043
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "comboSpells": [
+    {
+      "distance": 2,
+      "selfHealth": 85,
+      "enabled": false,
+      "enableTimeSpell": false,
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "index": 1,
+      "orangeSpell": "ultimate hakai",
+      "onScreen": "Ultimate Hakai",
+      "spellCast": "ultimate hakai",
+      "cooldown": 6245
+    },
+    {
+      "distance": 8,
+      "selfHealth": 100,
+      "enabled": true,
+      "enableTimeSpell": false,
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "index": 2,
+      "orangeSpell": "hakai",
+      "onScreen": "hakai",
+      "spellCast": "hakai",
+      "cooldown": 865
+    },
+    {
+      "distance": 8,
+      "selfHealth": 100,
+      "enabled": true,
+      "enableTimeSpell": false,
+      "widgetPos": {
+        "y": 50,
+        "x": 0
+      },
+      "index": 3,
+      "orangeSpell": "fury blast",
+      "onScreen": "fury blast",
+      "spellCast": "fury blast",
+      "cooldown": 1060
+    }
+  ]
+}
